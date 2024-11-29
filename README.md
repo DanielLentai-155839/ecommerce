@@ -20,4 +20,4 @@ python manage.py migrate
 
 
 python manage.py runserver
-Test the API using Thunderclient, check out my blog on thunderclient and other extentions
+Test the API using Thunderclient, check out my blog on thunderclient and other extentions.
